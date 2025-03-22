@@ -1,2 +1,2 @@
 # Binary-calculator-in-Python 
- idk just a simple Binary calculator I made in Python
+ just Binary calculator with an gui, I made in Python
